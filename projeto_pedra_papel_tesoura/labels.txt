@@ -1,0 +1,4 @@
+0 São PauloFC
+1 FCBarcelona
+2 ChelseaFC
+3 Não é time 
